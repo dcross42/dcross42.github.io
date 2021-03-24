@@ -23,11 +23,16 @@ email: dcross42@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! I'm Dan, and I am a graduate student at the University of Illinois
   at Urbana-Champaign. I love to code, and this is where you can find more
-  information about projects I have done. For academic integrity reasons, many
-  of my projects cannot be publicly shared. You will find descriptions of them here.
+  information about projects I have done. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dcross42
+
+defaults:
+    - scope:
+        path: "assets/img"
+      values:
+        image: true
 
 # Build settings
 theme: minima
