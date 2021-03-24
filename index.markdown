@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Welcome to my Personal Website!
 ---
-
-# Welcome to my Personal Website!
 
 I am Dan and this is my website. I hope you enjoy poking around.
 
