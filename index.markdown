@@ -9,7 +9,4 @@ layout: home
 
 I am Dan and this is my website. I hope you enjoy poking around.
 
-{% assign image_files = site.static_files | where: "image", true %}
-{% for im in image_files %}
-    {{ im.path }}
-{% endfor %}
+![headshot image](assests/img/websiteheadshot.jpg)
