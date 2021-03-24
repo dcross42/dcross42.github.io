@@ -55,7 +55,9 @@ _Study Abroad: University College Dublin in Dublin, Ireland_
 # Tech Skills
 
 **_Languages:_** Python (Proficient), SQL (Proficient), C/C++ (Proficient), Java (Proficient), R (Intermediate), JavaScript (Intermediate)
+
 **_Frameworks:_** Django (Intermediate), Shiny (Intermediate), React (Basic)
+
 **_Technologies:_** Tableau (Intermediate), Looker (Intermediate), Docker (Intermediate), Big Query (Intermediate), Excel (Intermediate), MongoDB (Basic)
 
 # Personal Interests and Fun Facts
