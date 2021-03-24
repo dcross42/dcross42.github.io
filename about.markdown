@@ -15,6 +15,7 @@ I have a broad skillset across several computer science disciplines and a drive 
 
 **M.C.S. University of Illinois at Urbana-Champaign (Aug. 2020 - Dec. 2021)**
 _Major: Computer Science_
+
 **B.S. Georgetown University (Aug. 2016 - May 2020)**
 _Majors: Computer Science & Economics_
 _Study Abroad: University College Dublin in Dublin, Ireland_
