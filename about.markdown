@@ -14,7 +14,7 @@ I have a broad skillset across several computer science disciplines and a drive 
 # Education
 
 **M.C.S. University of Illinois at Urbana-Champaign (Aug. 2020 - Dec. 2021)**
-_Major: Computer Science_
+_Major: Computer Science_  
 
 **B.S. Georgetown University (Aug. 2016 - May 2020)**
 _Majors: Computer Science & Economics_
@@ -54,11 +54,11 @@ _Study Abroad: University College Dublin in Dublin, Ireland_
 
 # Tech Skills
 
-**_Languages:_** Python (Proficient), SQL (Proficient), C/C++ (Proficient), Java (Proficient), R (Intermediate), JavaScript (Intermediate)
+**_Languages:_** Python (Proficient), SQL (Proficient), C/C++ (Proficient), Java (Proficient), R (Intermediate), JavaScript (Intermediate)  
 
-**_Frameworks:_** Django (Intermediate), Shiny (Intermediate), React (Basic)
+**_Frameworks:_** Django (Intermediate), Shiny (Intermediate), React (Basic)  
 
-**_Technologies:_** Tableau (Intermediate), Looker (Intermediate), Docker (Intermediate), Big Query (Intermediate), Excel (Intermediate), MongoDB (Basic)
+**_Technologies:_** Tableau (Intermediate), Looker (Intermediate), Docker (Intermediate), Big Query (Intermediate), Excel (Intermediate), MongoDB (Basic)  
 
 # Personal Interests and Fun Facts
 
