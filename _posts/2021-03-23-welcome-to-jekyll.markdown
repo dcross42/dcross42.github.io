@@ -21,6 +21,6 @@ I created this website to display my work and share things about me. I got off o
 
 # Who Am I?
 
-I'm Dan, a computer science graduate student at the Univeristy of Illinois at Urbana-Champaign. I love to learn, and I love to laugh. You can read more about me on the "About" page!
+I'm Dan, a computer science graduate student at the University of Illinois at Urbana-Champaign. I love to learn, and I love to laugh. You can read more about me on the "About" page!
 
 Thanks for visiting my website!
