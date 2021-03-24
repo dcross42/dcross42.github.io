@@ -9,4 +9,4 @@ layout: home
 
 I am Dan and this is my website. I hope you enjoy poking around.
 
-![headshot image](assests/img/websiteheadshot.jpg)
+![headshot image](assets/img/websiteheadshot.jpg)
