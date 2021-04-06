@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Graduate School Projects"
+title:  "Book List"
 date:   2021-04-05 23:30:00 -0400
 categories: jekyll update
 ---
