@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Graduate School Projects"
+date:   2021-04-05 22:00:00 -0400
+categories: jekyll update
+---
+
+# What I am currently reading
+
+_A Random Walk Down Wall Street_
+
+# Books I recommend
+
+* _The MVP Machine_ and _Big Data Baseball_
+* _The Perfect Weapon_
+* _Destiny and Power_
+* _Data Science from Scratch_
+* _Get a Financial Life_
+* _The Hellfire Club_
+* _A Man on the Moon_
