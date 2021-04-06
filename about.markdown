@@ -50,7 +50,7 @@ _Study Abroad: University College Dublin in Dublin, Ireland_
 
 * Used R Markdown to generate a report of national homicide data from the Washington Post to analyze differences in the rate of solved crimes by state to examine the effects of different legal rules
 
-* Assisted in creating an application with Shiny to analyze millions of data points form subpoenaed social media data to increase investigative efficiency and speed
+* Assisted in creating an application with Shiny to analyze millions of data points from subpoenaed social media data to increase investigative efficiency and speed
 
 # Tech Skills
 
