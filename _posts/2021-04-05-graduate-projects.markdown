@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "Graduate School Projects"
-date:   2021-04-05 23:30:00 -0400
+date:   2021-08-22 23:30:00 -0400
 categories: jekyll update
 ---
 
 # Graduate School Projects
 
-This post contains descriptions of the projects I have completed during my graudate program at the University of Illinois at Urbana-Champaign broken out by course. For the current semester (Spring 2021), the projects are only ones I have completed so far.
-
+This post contains descriptions of the projects I have completed during my graudate program at the University of Illinois at Urbana-Champaign broken out by course.
 ## CS 425 Distributed Systems -- Fall 2020
 
 _Language: C++_
@@ -109,7 +108,7 @@ I used R Markdown and RJAGS to compile a report on an assigned dataset of arrest
 
 ## CS 513 Theory and Practice of Data Cleaning -- Summer 2021
 
-_Language: Python, Datalog, SQL_
+_Language: Python, Datalog, SQL_  
 _Technologies: OpenRefine, SQLite_
 
 ### Final Project
