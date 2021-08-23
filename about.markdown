@@ -22,6 +22,14 @@ _Study Abroad: University College Dublin in Dublin, Ireland_
 
 # Work Experience
 
+**E15 Group – Strategy & Analytics Intern (Jun. 2021 – Present)**  
+
+* Utilized Python to automate cooking projections process, reducing completion time by 50%  
+
+* Built a Shiny application that implemented Association Rule mining on transactional data to provide other analysts and operators better information about potential product pairings   
+
+* Used Python to automate data cleaning and integration for the production of Tableau visualizations and governance presentations  
+
 **Washington Nationals – Business Strategy & Analytics Intern (Oct. 2019 – Mar. 2020)**
 * Integrated 1+ million customers’ contact information from AWS ticket sales database into Microsoft CRM system using Python to improve the reliability of customer information for the sales department
 

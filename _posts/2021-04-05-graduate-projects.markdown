@@ -63,13 +63,25 @@ The first part of the project had us examine the differences between different t
 
 _Language: Python (Projects are language agnostic)_
 
-### Frequent Pattern Mining
+### Pattern Mining
 
-We were given a dataset of categories for different buisnesses, and we were asked to find all frequent patterns with minimum support of 0.01. I implemented the Apriori pattern mining algorithm to accomplish the correct result.
+* _Frequent Pattern Mining_: We were given a dataset of categories for different buisnesses, and we were asked to find all frequent patterns with minimum support of 0.01. I implemented the Apriori pattern mining algorithm to accomplish the correct result.
 
-### Sequential Pattern Mining
+* _Sequential Pattern Mining_: We were given a dataset of Yelp reviews and asked to find all frequent consecutive sequential patterns with minimum support of 0.01. I tried GSP and SPAN, but I ended up using PrefixSpan (which was first proposed by my professor!).
 
-We were given a dataset of Yelp reviews and asked to find all frequent consecutive sequential patterns with minimum support of 0.01. I tried GSP and SPAN, but I ended up using PrefixSpan (which was first proposed by my professor!).
+### Clustering
+
+* _Basic Clustering_: I implemented the KMeans clustering algorithm. I actually used KMeans++ to initialize the algorithm after some trial and error.
+
+* _Hierarchical Clustering_: I implemented the Agglomerative clustering algorithm AGNES with different "link" functions. The different link functions would change the structure of each cluster.
+
+* _Cluster Validation_: I implemented Jaccard and NMI cluster validation to understand the quality of the given cluster labels.
+
+### Classification
+
+* _Decision Tree_: I implemented a Decision Tree of depth 2 and used a train/test split to train and evaluate the test data.
+
+* _Naive Bayes_: I implemented a Naive Bayes Classifier by hand to run on some example data. 
 
 ## STAT 578 Advanced Bayesian Modeling -- Spring 2021
 
@@ -77,7 +89,7 @@ _Language: R (JAGS)_
 
 ### Project 1
 
-The main part of the project involved modeling a dataset containing the lengths of wikipedia articles. I implemented a mean-only normal model and a two-paramenter normal model with flat noninformative priors.
+The main part of the project involved modeling a dataset containing the lengths of wikipedia articles. I implemented a mean-only normal model and a two-paramenter normal model with flat noninformative priors to generate a report with R Markdown.
 
 ### Project 2
 
@@ -90,3 +102,16 @@ In this assignment, I used model checking methods like the Gelman-Rubin statisti
 ### Project 4
 
 I used Markov Chain Monte Carlo to create a linear regression model for a Moore's Law dataset. Then I checked the model for outliers with a T statistic based on the maximum standardized error.
+
+### Final Report
+
+I used R Markdown and RJAGS to compile a report on an assigned dataset of arrests from San Francisco from 2015 to 2016. I built a logistic regression model that showed the chances of an individual being found with contraband varied by the race of the individual. 
+
+## CS 513 Theory and Practice of Data Cleaning -- Summer 2021
+
+_Language: Python, Datalog, SQL_
+_Technologies: OpenRefine, SQLite_
+
+### Final Project
+
+I worked with 3 other students to clean the New York Public Library's historical menu dataset. We used OpenRefine to manually transform and standardize the data. Then, we used SQLite to store our clean dataset and run integrity checks. We also demonstrated how our cleaning improved the quality of the data.

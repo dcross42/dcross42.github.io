@@ -8,6 +8,8 @@ categories: jekyll update
 # What I am currently reading
 
 _A Random Walk Down Wall Street_
+_Introduction to Econometrics_
+_Bayesian Data Analysis_
 
 # Books I recommend
 
