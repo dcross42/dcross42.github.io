@@ -22,7 +22,20 @@ _Study Abroad: University College Dublin in Dublin, Ireland_
 
 # Work Experience
 
-**E15 Group – Strategy & Analytics Intern (Jun. 2021 – Present)**  
+**Washington Nationals - Senior Manager, Business Intelligence & Data Engineering (Feb. 2025 - Present)**
+**Washington Nationals - Manager, Business Intelligence & Data Engineering (Mar. 2024 - Jan. 2025)**
+**Washington Nationals - Manager, Business Intelligence (Nov. 2021 - Mar. 2024)**
+
+* Created and Maintained suite of 60+ Tableau dashboards providing insights across buisness lines
+* Leveraged dbt to construct BigQuery data warehouse with 300+ models, enabling more rapid data analysis throughout the analytics group
+* Implemented XGBoost Machine Learning model for attendance projection to replace 3rd party vendor and improve accuracy
+* Utilized Apache Airflow on GCP Cloud Composer to orchestrate ETL and ELT pipelines
+* Managed data engineering team within the analytics group to increase data engineering capacity and drive business efficiency
+* Integrated CRM system with data warehouse to align CRM data with other sources. 
+* Mentored, advised, and assisted team members with upskilling and improved data literacy
+
+**E15 Group – Partner Strategy Analyst (Sep. 2021 – Oct. 2021)**
+**E15 Group – Strategy & Analytics Intern (Jun. 2021 – Sep. 2021)**  
 
 * Utilized Python to automate cooking projections process, reducing completion time by 50%  
 
@@ -62,11 +75,11 @@ _Study Abroad: University College Dublin in Dublin, Ireland_
 
 # Tech Skills
 
-**_Languages:_** Python (Proficient), SQL (Proficient), C/C++ (Proficient), Java (Proficient), R (Intermediate), JavaScript (Intermediate)  
+**_Languages:_** SQL (Expert), Python (Proficient), C/C++ (Proficient), Java (Proficient), R (Intermediate)
 
-**_Frameworks:_** Django (Intermediate), Shiny (Intermediate), React (Basic)  
+**_Frameworks:_** scikit-learn (Proficient), dbt(Proficient), Apache Airflow (Proficient), pandas (Proficient)
 
-**_Technologies:_** Tableau (Intermediate), Looker (Intermediate), Docker (Intermediate), Big Query (Intermediate), Excel (Intermediate), MongoDB (Basic)  
+**_Technologies:_** Tableau (Proficient), BigQuery (Proficient), Docker (Intermediate), Excel (Intermediate)
 
 # Personal Interests and Fun Facts
 
